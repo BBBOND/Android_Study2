@@ -34,4 +34,14 @@
         android:layout_marginTop="3dp"
         android:onClick="sayHello"
         android:text="start messenger service" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#c8000000" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp" />
 </LinearLayout>
